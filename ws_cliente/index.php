@@ -6,7 +6,7 @@ require_once("includes/biblio.php");
 <html>
     <head>
         <meta charset="utf-8">
-        <title>mjailton-php</title>
+        <title>Agenda</title>
 
         <link href="css/reset.css" rel="stylesheet" type="text/css">
         <link href="css/estilo.css" rel="stylesheet" type="text/css">
@@ -67,7 +67,7 @@ if (!empty($link)) {
         <div class="limpar"></div>
         <div class="base-rodape">
             <div class="cx-menu-rodape">
-                <p>Copyright 2015
+                <p>Copyright 2016 
 
             </div>
         </div>
