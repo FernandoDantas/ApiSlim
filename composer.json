@@ -1,0 +1,11 @@
+{
+    "name":"api php",
+    "require": {
+        "slim/slim": "^3.0"
+    },
+    "autoload":{
+        "psr-4":{
+            "agenda\\":"src/"
+        }
+    }
+}
